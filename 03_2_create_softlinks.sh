@@ -21,4 +21,5 @@ ln -sf $data_root_dir/$dataset_name/lmdb/"$dataset_name"_trainval_lmdb/ trainval
 ln -sf $data_root_dir/$dataset_name/lmdb/"$dataset_name"_test_lmdb/ test_lmdb 
  
 #for labelmap.prototxt
- ln -sf $data_root_dir/labelmap.prototxt labelmap.prototxt 
+ln -sf $data_root_dir/labelmap.prototxt labelmap.prototxt 
+ln -sf $data_root_dir/labelmap.prototxt labelmap.prototxt 
